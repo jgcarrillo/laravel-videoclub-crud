@@ -1,11 +1,11 @@
-## Ejemplo creado en Laravel
+## Basic example of CRUD in Laravel
 
-Proyecto en desarrollo basado en un videoclub online. Permite realizar un CRUD total.
+Project in development based on an online film site.
 
-Contiene:
+Features:
 
-1. Creación de rutas
-2. Autenticación de usuarios
-3. Creación de plantillas en Blade
+1. Routes
+2. Authentication
+3. Blade templates
 
-*Work in progress*
+_Work in progress_
